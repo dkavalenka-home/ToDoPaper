@@ -1,1 +1,1 @@
-alert ('Hello');
+var todoItems = [];
